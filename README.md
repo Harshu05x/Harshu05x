@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshu05x
+- 👋 Hi, I’m @Harshad Madhbhave.
 - 👀 I’m interested in Artificial intelligence,
      Machine learning, Data science.  
 - 🌱 I’m currently learning C++, Python, DSA.
