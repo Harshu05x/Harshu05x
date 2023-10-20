@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Skilled C/C++ programmer and Intermediate MERN Stack Web Developer with expertise in Data Structures and Algorithms. Passionate about crafting efficient and robust code to solve complex problems. Continuously seeking opportunities to contribute to innovative projects and collaborate with like-minded professionals in the tech industry. Committed to lifelong learning and staying up-to-date with the latest technologies and best practices. Let's connect and explore new possibilities!<br><br> #CPP #WebDevelopment #DataStructures #Algorithms #TechEnthusiast #ProblemSolving</h4>
+<h3 align="left">Skilled C/C++ programmer and Intermediate MERN Stack Web Developer with expertise in Data Structures and Algorithms. Passionate about crafting efficient and robust code to solve complex problems. Continuously seeking opportunities to contribute to innovative projects and collaborate with like-minded professionals in the tech industry. Committed to lifelong learning and staying up-to-date with the latest technologies and best practices. Let's connect and explore new possibilities!<br><br> #CPP #WebDevelopment #DataStructures #Algorithms #TechEnthusiast #ProblemSolving</h3>
 
 ###
 
