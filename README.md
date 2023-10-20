@@ -2,15 +2,15 @@
 
 ###
 
-<h3 align="left">My name is Harshad and I'm a Aspiring MERN Stack Web Developer ,C/C++ Programmer ,DSA Practitioner</h3>
+<h2 align="left">My name is Harshad and I'm a Aspiring MERN Stack Web Developer ,C/C++ Programmer ,DSA Practitioner</h2>
 
 ###
 
-<h2 align="left">Skilled C/C++ programmer and Intermediate MERN Stack Web Developer with expertise in Data Structures and Algorithms. Passionate about crafting efficient and robust code to solve complex problems. Continuously seeking opportunities to contribute to innovative projects and collaborate with like-minded professionals in the tech industry. Committed to lifelong learning and staying up-to-date with the latest technologies and best practices. Let's connect and explore new possibilities!<br><br> #CPP #WebDevelopment #DataStructures #Algorithms #TechEnthusiast #ProblemSolving</h2>
+<h4 align="left">Skilled C/C++ programmer and Intermediate MERN Stack Web Developer with expertise in Data Structures and Algorithms. Passionate about crafting efficient and robust code to solve complex problems. Continuously seeking opportunities to contribute to innovative projects and collaborate with like-minded professionals in the tech industry. Committed to lifelong learning and staying up-to-date with the latest technologies and best practices. Let's connect and explore new possibilities!<br><br> #CPP #WebDevelopment #DataStructures #Algorithms #TechEnthusiast #ProblemSolving</h4>
 
 ###
 
-<h2 align="left">I code with C++ , HTML , CSS , JavsScript , React.</h2>
+<h4 align="left">I code with C++ , HTML , CSS , JavsScript , React.</h2>
 
 ###
 
