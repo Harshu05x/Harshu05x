@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Harshad and I'm a Aspiring MERN Stack Web Developer ,C/C++ Programmer ,DSA Practitioner</p>
+<h3 align="left">My name is Harshad and I'm a Aspiring MERN Stack Web Developer ,C/C++ Programmer ,DSA Practitioner</h3>
 
 ###
 
