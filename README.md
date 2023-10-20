@@ -33,10 +33,10 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/harshad-madhbhave" target="_blank">
+  <a href="https://www.linkedin.com/in/harshadmadhbhave/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="harshu_05x" target="_blank">
+  <a href="https://discord.com/channels/@harshu_05x" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="harshumadhbhave25@gmail.com" target="_blank">
